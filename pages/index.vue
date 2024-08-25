@@ -1,6 +1,6 @@
 <template>
   <div>
-    <NavBar />
+    это какая-то страница
   </div>
 </template>
 
